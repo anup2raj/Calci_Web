@@ -1,0 +1,31 @@
+body{
+	margin: 0px;
+	padding: 0px;
+	background: linear-gradient(to left, #ff0101d1, #1600ffcf);
+	height: 100vh;
+}
+.main{
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	transform: translateX(-50%) translateY(-50%);
+}
+.field1{
+	width: 208px;
+	height: 40px;
+	margin: 5px 0px 2px 3px;
+	font-size: 25px;
+	overflow: auto;
+}
+.button{
+	width: 50px;
+	height: 50px;
+	font-size: 20px;
+}
+.btnh{
+	width: 104px;
+}
+.btnv{
+	height: 104px;
+	background-color: #27f77ab0;
+}
